@@ -17,7 +17,40 @@ Designed for cafés, restaurants, poolside service, and small hospitality busine
 🔄 Stable and optimized structure for Windows setups
 
 📌 Screenshots
-Screenshots are available in the repository under the /screenshots folder.
+## 📸 Screenshots
+
+### 1. PIN Login Screen
+![Screenshot 1](screenshots/1.png)
+
+### 2. Table Management (Garden – 20 tables)
+![Screenshot 2](screenshots/2.png)
+
+### 3. Active Tables & Order Status
+![Screenshot 3](screenshots/3.png)
+
+### 4. Product Management – Add / Edit Product
+![Screenshot 4](screenshots/4.png)
+
+### 5. End-of-Day Summary Screen
+![Screenshot 5](screenshots/5.png)
+
+### 6. Order Screen for Selected Table
+![Screenshot 6](screenshots/6.png)
+
+### 7. Occupied Table Indicator
+![Screenshot 7](screenshots/7.png)
+
+### 8. Payment Screen
+![Screenshot 8](screenshots/8.png)
+
+### 9. Daily Sales Report
+![Screenshot 9](screenshots/9.png)
+
+### 10. End-of-Day Confirmation
+![Screenshot 10](screenshots/10.png)
+
+### 11. End-of-Day Success Notification
+![Screenshot 11](screenshots/11.png)
 
 🛠️ Technologies Used
 Python3
@@ -42,4 +75,7 @@ AGPlus-Cafe-Restaurant-System/
 
 📄 License
 This project is licensed under the MIT License — you are free to use, modify, and distribute the software.
+
+❤️ Contributions
+Contributions, issues, and pull requests are warmly welcomed.
 
