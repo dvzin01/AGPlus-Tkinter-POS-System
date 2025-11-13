@@ -1,0 +1,3 @@
+# AGPlus POS System requirements
+# All libraries used are built-in Python modules.
+# No external packages are required.
